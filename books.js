@@ -1,4 +1,4 @@
-// This comes from https://minimal.guide/Guides/Create+a+movie+database
+// This comes from https://github.com/chhoumann/quickadd/blob/master/docs/docs/Examples/Attachments/BookFinder.js
 
 const notice = e => new Notice(e, 5e3),
   log = e => console.log(e),
